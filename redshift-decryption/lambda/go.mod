@@ -6,7 +6,6 @@ toolchain go1.23.4
 
 require (
 	github.com/aws/aws-lambda-go v1.37.0
-	github.com/aws/aws-sdk-go v1.44.197
 	github.com/aws/aws-sdk-go-v2/config v1.28.7
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.8
 )
@@ -24,5 +23,4 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.3 // indirect
 	github.com/aws/smithy-go v1.22.1 // indirect
-	github.com/jmespath/go-jmespath v0.4.0 // indirect
 )
